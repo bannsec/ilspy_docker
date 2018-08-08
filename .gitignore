@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+.cache
+a.out
+core
+dist
+docs/_build
